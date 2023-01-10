@@ -1,0 +1,15 @@
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\bin\Debug\net7.0\Snake-game.exe
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\bin\Debug\net7.0\Snake-game.deps.json
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\bin\Debug\net7.0\Snake-game.runtimeconfig.json
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\bin\Debug\net7.0\Snake-game.dll
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\bin\Debug\net7.0\Snake-game.pdb
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.csproj.AssemblyReference.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.AssemblyInfoInputs.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.AssemblyInfo.cs
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.csproj.CoreCompileInputs.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.dll
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\refint\Snake-game.dll
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.pdb
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\Snake-game.genruntimeconfig.cache
+C:\Users\kiruk\OneDrive\문서\GitHub\prime-factorization\Snake-game\obj\Debug\net7.0\ref\Snake-game.dll
